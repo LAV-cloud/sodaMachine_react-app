@@ -1,0 +1,61 @@
+{
+  "sodas": [
+
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1625740822008-e45abf4e01d5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Fanta",
+      "price": 3,
+      "count": 10
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+      "name": "Cola",
+      "price": 2,
+      "count": 10
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1595026798575-cac0f1be4be6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Pepsi",
+      "price": 5,
+      "count": 10
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Sprite",
+      "price": 4,
+      "count": 10
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1599398054066-846f28917f38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Cofe",
+      "price": 7,
+      "count": 10
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1568395216634-ab1b1e848751?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Water",
+      "price": 8,
+      "count": 10
+    }, 
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1581927692308-be9e43b4d860?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Coctail",
+      "price": 6,
+      "count": 10
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1615306119033-9ccc756f5214?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "name": "Canada dry",
+      "price": 3,
+      "count": 10
+    }
+  ]
+}
